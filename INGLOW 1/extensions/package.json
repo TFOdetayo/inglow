@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "firebase-admin": "^12.4.0"
+  },
+  "name": "inglow-1",
+  "version": "1.0.0",
+  "description": "inglow site",
+  "main": "scripts.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acepraise/Inglow.git"
+  },
+  "keywords": [
+    "inglow",
+    "repo"
+  ],
+  "author": "odetayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acepraise/Inglow/issues"
+  },
+  "homepage": "https://github.com/Acepraise/Inglow#readme"
+}
